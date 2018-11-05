@@ -2,6 +2,8 @@
 
 ## 你他娘这又是啥？
 
+曾经做了一个表白页面给某女生
+
 当然是又一个很沙雕很捞很庸俗页面啦
 
 也不好看，也没啥用啦
@@ -20,4 +22,4 @@
 
 看啊
 
-[辣鸡.我爱你/love/](http://辣鸡.我爱你/love/)
+[ningcheers.github.io/love/](http://ningcheers.github.io/love/)
